@@ -30,7 +30,7 @@
   },
   "keywords": [
     "kysely",
-    "plugin"
+    "migrator"
   ],
   "author": "samuel.laycock@cloudmix.dev",
   "license": "MIT",
